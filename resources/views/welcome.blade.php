@@ -37,7 +37,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Lance's Laravel Blog
                 </div>
 
                 <div class="links">
